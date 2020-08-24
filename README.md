@@ -51,9 +51,9 @@ batch size 64, 25 epochs, each epoch takes ~ 4 minutes and more on the local CPU
 
 Final accuracy: 79.14% much improved!
 
-# conclusion: larger CNN has a better performance, but also took a lot longer to train
+# Conclusion: larger CNN has a better performance, but also took a lot longer to train
 
-## Potential improvement:
+## Potential improvements:
 Train for More Epochs. 
 Image Data Augmentation. 
 Deeper Network Topology. 
