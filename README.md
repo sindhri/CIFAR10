@@ -7,7 +7,7 @@ Credit: Deep Learning with Python by Jason Brownlee
 2. encode the categorical output
 
 ## Simple CNN
-![CIFAR_CNN](https://github.com/sindhri/CIFAR10/blob/master/doc/img1.png) 
+<img src = "https://github.com/sindhri/CIFAR10/blob/master/doc/img1.png" width="500">   
 With 2 convolutional layers, pooling, dropout, 2 dense layers.  
 Categorical cross entropy as the loss function, accuracy as the metrics, delayed learning rate and stochastic gradient decent.
 25 epochs with a batch of 32. Each epoch took 3 minutes, so total takes about 75 minutes on the local CPU.
@@ -25,7 +25,7 @@ Final accuracy: 69.89%
 
 
 ## larger CNN
-![CIFAR_CNN_larger](https://github.com/sindhri/CIFAR10/blob/master/doc/img2.png)  
+<img src = "https://github.com/sindhri/CIFAR10/blob/master/doc/img2.png" width="500">   
 Categorical cross entropy as the loss function, accuracy as the metrics, delayed learning rate and stochastic gradient decent.
 batch size 64, 25 epochs, each epoch takes ~ 4 minutes and more on the local CPU, so total time is 260 minutes!
 
